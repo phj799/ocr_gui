@@ -1,0 +1,4 @@
+자비에 jetpack 4.5, CUDA 설치, pytorch 1.2이상 -> display 및 배터리 구동 확인
+모델 loading 미리 할 수 있는지, 모델 인식률 향상, 시간나면 delivery 레이블 이미지 바꿀 수 있나 확인
+
+multiprecessing detection은 버튼 누르면 동작하고 recognition은 Crop_receipt안에 파일이 생길때까지 대기?
